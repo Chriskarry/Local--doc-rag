@@ -1,0 +1,5 @@
+chainlit
+ollama
+chromadb
+pypdf
+pydantic==2.10.1
